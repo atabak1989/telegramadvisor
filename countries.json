@@ -1,0 +1,108 @@
+{
+    "countries": [
+        {
+            "name": "United States",
+            "aliases": ["USA", "US", "America", "United States of America"],
+            "description": "Home to world-renowned universities with cutting-edge research facilities and diverse academic programs",
+            "language_requirement": "TOEFL 80+ or IELTS 6.5+ (varies by university)",
+            "avg_tuition": "$20,000-60,000 per year",
+            "application_deadline": "December-February for Fall semester",
+            "additional_requirements": [
+                "SAT/ACT for undergraduate, GRE/GMAT for graduate programs",
+                "Financial statement showing sufficient funds",
+                "Student visa (F-1) required"
+            ]
+        },
+        {
+            "name": "Canada",
+            "aliases": ["CA", "Canadian"],
+            "description": "High-quality education system with excellent post-graduation work opportunities and pathway to permanent residence",
+            "language_requirement": "IELTS 6.5+ or TOEFL 90+ (English), TEF/DELF for French programs",
+            "avg_tuition": "$15,000-35,000 CAD per year",
+            "application_deadline": "January-March for September intake",
+            "additional_requirements": [
+                "Study permit required",
+                "Medical examination may be required",
+                "Proof of financial support"
+            ]
+        },
+        {
+            "name": "United Kingdom",
+            "aliases": ["UK", "Britain", "England", "Great Britain"],
+            "description": "Prestigious universities with rich academic tradition and shorter program durations",
+            "language_requirement": "IELTS 6.5+ or TOEFL 90+ (varies by university and program)",
+            "avg_tuition": "£15,000-45,000 per year",
+            "application_deadline": "January 15 (UCAS deadline for most programs)",
+            "additional_requirements": [
+                "UCAS application for undergraduate programs",
+                "Student visa (Tier 4) required",
+                "Academic Technology Approval Scheme (ATAS) for some subjects"
+            ]
+        },
+        {
+            "name": "Australia",
+            "aliases": ["AU", "Aussie", "Australian"],
+            "description": "World-class universities with strong research focus and excellent student support services",
+            "language_requirement": "IELTS 6.5+ or TOEFL 79+ (varies by program)",
+            "avg_tuition": "$20,000-45,000 AUD per year",
+            "application_deadline": "October-December for February intake, April-May for July intake",
+            "additional_requirements": [
+                "Student visa (subclass 500) required",
+                "Overseas Student Health Cover (OSHC)",
+                "Genuine Temporary Entrant (GTE) requirement"
+            ]
+        },
+        {
+            "name": "Germany",
+            "aliases": ["DE", "Deutschland", "German"],
+            "description": "Excellent engineering and technical programs with low tuition fees at public universities",
+            "language_requirement": "German: DSH-2 or TestDaF 4, English programs: IELTS 6.5+ or TOEFL 90+",
+            "avg_tuition": "€0-3,000 per semester (public), €10,000-20,000 per year (private)",
+            "application_deadline": "July 15 for winter semester, January 15 for summer semester",
+            "additional_requirements": [
+                "APS certificate for some countries",
+                "Student visa required for non-EU students",
+                "Proof of financial resources (€10,332 per year)"
+            ]
+        },
+        {
+            "name": "France",
+            "aliases": ["FR", "French"],
+            "description": "Rich cultural heritage with strong programs in arts, business, and engineering",
+            "language_requirement": "French: DELF B2/DALF C1, English programs: IELTS 6.5+ or TOEFL 90+",
+            "avg_tuition": "€2,770-3,770 per year (EU), €16,000-20,000 per year (non-EU)",
+            "application_deadline": "March-May via Campus France",
+            "additional_requirements": [
+                "Campus France procedure required",
+                "Student visa (VLS-TS) required",
+                "French language proficiency test may be required"
+            ]
+        },
+        {
+            "name": "Netherlands",
+            "aliases": ["NL", "Holland", "Dutch"],
+            "description": "High-quality education with many English-taught programs and innovative teaching methods",
+            "language_requirement": "IELTS 6.5+ or TOEFL 90+ for English programs, Dutch proficiency for Dutch programs",
+            "avg_tuition": "€2,168 per year (EU), €8,000-20,000 per year (non-EU)",
+            "application_deadline": "May 1 for September intake (varies by program)",
+            "additional_requirements": [
+                "Studielink application required",
+                "Residence permit required for non-EU students",
+                "Numerus fixus for some competitive programs"
+            ]
+        },
+        {
+            "name": "Switzerland",
+            "aliases": ["CH", "Swiss"],
+            "description": "World-renowned universities with strong research focus and multilingual environment",
+            "language_requirement": "Varies by canton and university (German, French, Italian, or English)",
+            "avg_tuition": "CHF 500-2,000 per semester (public), CHF 20,000-40,000 per year (private)",
+            "application_deadline": "February-April (varies by university)",
+            "additional_requirements": [
+                "Student visa required for non-EU students",
+                "Proof of financial resources (CHF 21,000 per year)",
+                "Health insurance mandatory"
+            ]
+        }
+    ]
+}

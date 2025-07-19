@@ -1,0 +1,6 @@
+Allow users to specify their major using both English and Farsi
+
+Extends major validation to include 'سایر' (Farsi for 'other') as a valid input in `utils/validators.py`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 83f4cdce-6b97-40eb-a918-7b97ad4bd3d6

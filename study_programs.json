@@ -1,0 +1,94 @@
+{
+    "programs": [
+        {
+            "name": "Master of Business Administration (MBA)",
+            "fields": ["Business Administration", "Economics"],
+            "level": "Graduate",
+            "duration": "1.5-2 years",
+            "min_gpa": 15.0,
+            "requirements": "Bachelor's degree, 2+ years work experience, GMAT/GRE, IELTS 7.0+",
+            "focus_areas": ["Strategic Management", "International Business", "Finance", "Marketing", "Leadership"]
+        },
+        {
+            "name": "Master of Science in Computer Science",
+            "fields": ["Computer Science"],
+            "level": "Graduate",
+            "duration": "2 years",
+            "min_gpa": 15.5,
+            "requirements": "Bachelor's in CS or related field, GRE, IELTS 6.5+",
+            "focus_areas": ["Artificial Intelligence", "Machine Learning", "Software Engineering", "Cybersecurity", "Data Science"]
+        },
+        {
+            "name": "Master of Engineering",
+            "fields": ["Engineering"],
+            "level": "Graduate", 
+            "duration": "1.5-2 years",
+            "min_gpa": 15.0,
+            "requirements": "Bachelor's in Engineering, GRE, IELTS 6.5+",
+            "focus_areas": ["Civil Engineering", "Mechanical Engineering", "Electrical Engineering", "Environmental Engineering"]
+        },
+        {
+            "name": "Master of Arts in International Relations",
+            "fields": ["Law", "Arts", "Sciences"],
+            "level": "Graduate",
+            "duration": "2 years", 
+            "min_gpa": 14.0,
+            "requirements": "Bachelor's degree, IELTS 6.5+",
+            "focus_areas": ["Diplomacy", "Global Politics", "International Law", "Conflict Resolution", "Development Studies"]
+        },
+        {
+            "name": "Bachelor of Science in Computer Science",
+            "fields": ["Computer Science"],
+            "level": "Undergraduate",
+            "duration": "4 years",
+            "min_gpa": 13.0,
+            "requirements": "High School Diploma, SAT/ACT, IELTS 6.0+",
+            "focus_areas": ["Programming", "Data Structures", "Algorithms", "Software Development", "Computer Systems"]
+        },
+        {
+            "name": "Bachelor of Business Administration",
+            "fields": ["Business Administration"],
+            "level": "Undergraduate",
+            "duration": "4 years",
+            "min_gpa": 13.0,
+            "requirements": "High School Diploma, SAT/ACT, IELTS 6.0+",
+            "focus_areas": ["Management", "Finance", "Marketing", "Operations", "Entrepreneurship"]
+        },
+        {
+            "name": "Master of Public Health",
+            "fields": ["Medicine", "Sciences"],
+            "level": "Graduate",
+            "duration": "2 years",
+            "min_gpa": 14.5,
+            "requirements": "Bachelor's degree in health-related field, GRE, IELTS 6.5+",
+            "focus_areas": ["Epidemiology", "Health Policy", "Environmental Health", "Biostatistics", "Global Health"]
+        },
+        {
+            "name": "Master of Education",
+            "fields": ["Education"],
+            "level": "Graduate",
+            "duration": "1.5-2 years",
+            "min_gpa": 13.5,
+            "requirements": "Bachelor's degree, teaching experience preferred, IELTS 6.5+",
+            "focus_areas": ["Curriculum Development", "Educational Leadership", "Special Education", "Educational Technology"]
+        },
+        {
+            "name": "Bachelor of Arts in Psychology",
+            "fields": ["Psychology"],
+            "level": "Undergraduate",
+            "duration": "4 years",
+            "min_gpa": 13.0,
+            "requirements": "High School Diploma, SAT/ACT, IELTS 6.0+",
+            "focus_areas": ["Clinical Psychology", "Social Psychology", "Cognitive Psychology", "Developmental Psychology"]
+        },
+        {
+            "name": "PhD in Engineering",
+            "fields": ["Engineering"],
+            "level": "Doctorate",
+            "duration": "4-6 years",
+            "min_gpa": 16.0,
+            "requirements": "Master's in Engineering, GRE, Research proposal, IELTS 7.0+",
+            "focus_areas": ["Advanced Research", "Innovation", "Technology Development", "Academic Career Preparation"]
+        }
+    ]
+}
